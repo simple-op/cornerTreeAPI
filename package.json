@@ -15,14 +15,13 @@
   "bugs": {
     "url": "https://github.com/simple-op/cornerTreeApi/issues"
   },
-  "homepage": "https://github.com/simple-op/cornerTreeApi#readme",
-
-"dependencies": {
-  "axios": "^0.20.0",
-  "cors": "^2.8.5",
-  "express": "^4.17.1",
-  "jsonwebtoken": "^8.5.1",
-  "mongoose": "^5.10.3",
-  "passport": "^0.4.1",
-  "passport-jwt": "^4.0.0"
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.3",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
 }
